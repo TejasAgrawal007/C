@@ -9,6 +9,7 @@ int main()
     number = rand() % 100 + 1; // Generate random number between 1 to 100.
     // printf("The number is %d\n", number);
     // Keep running loop until the number is guess.
+    // Time 0 will return a time in sec
 
     do
     {
