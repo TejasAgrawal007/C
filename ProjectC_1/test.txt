@@ -1,0 +1,5 @@
+Guesss The Number game -
+    a) Generate random number untilnumber is Guesss.
+    b) Loop will  regenerate the numbers.
+    c) Number will generate between 1 to 100.
+    d) This project based on earlier 4 chapters

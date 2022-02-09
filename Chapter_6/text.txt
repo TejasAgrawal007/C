@@ -1,0 +1,5 @@
+Chapter 6 Pointers
+    a)Types of function calls
+        1) call by value.
+        2) call by reference.
+    
