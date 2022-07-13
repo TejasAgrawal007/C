@@ -1,4 +1,4 @@
-// if-else shambhavi
+
 #include <stdio.h>
 
 int main()
