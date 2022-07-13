@@ -9,15 +9,15 @@ int main()
 
     if (age != 90)
     {
-        printf("dambo and Tejas are the grandPa and grandMa\n");
+        printf("XYZ\n");
     }
     else
     {
-        printf("dambo and You are the Best friends!\n");
+        printf("PQR!\n");
     }
 
     if(age == 50){
-        printf("Dambo and Tejas make a half century\n");
+        printf("ABC\n");
     }
 
     return 0;
